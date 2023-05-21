@@ -3,24 +3,24 @@
 
 ## EN: Kyrgyz language hand-written letters (kyrgyz MNIST)
 
-A repository of images of hand-written Kyrgyz alphabet letters for machine learning applications.
+A repository of images (in CSV format) of hand-written Kyrgyz alphabet letters for machine learning applications. Original images have been transformed to 50x50 images and after to csv format. 
 
-The repository currently consists of 80213 (278x278 pixel) images representing all 36 letters of the Kyrgyz alphabet These images have been hand-written.
+The repository currently consists of 80213 (50x50 pixel) images representing all 36 letters of the Kyrgyz alphabet These images have been hand-written.
 
 ### Acknowledgements
 
 We thank Ilgiz Zhumaev for providing this dataset.
-Original images could be downloaded from: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
+Original images (278х278) could be downloaded from: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
 
 ## KG: Кыргыз тилиндеги колго жазылган тамгалар (кыргызча MNIST)
 
-Machine Learning жана жасалма интеллект колдонмолору үчүн кол менен жазылган кыргыз алиппесинин сүрөттөрүнүн репозиториясы.
+Machine Learning жана жасалма интеллект колдонмолору үчүн кол менен жазылган кыргыз алиппесинин сүрөттөрүнүн репозиториясы. Оригалдуу сүрөттөр биринчинден 278x278-ден 50х50 пикель сүрөткө которулган, анан csv форматына өзгөртүлгөн.
 
-Учурда репозиторий кыргыз алиппесинин бардык 36 тамгасын чагылдырган 80213 (278x278 пиксел) сүрөттөрдөн турат. Бул сүрөттөр кол менен жазылган.
+Учурда репозиторий кыргыз алиппесинин бардык 36 тамгасын чагылдырган 80213 (50x50 пиксел) сүрөттөрдөн турат. Бул сүрөттөр кол менен жазылган.
 
 ### Ыраазычылык
 Бул датасет топтомун бергени үчүн Илгиз Жумаевге ыраазычылык билдиребиз.
-Cүрөттөрдү төмөнкү жерден жүктөп алса болот: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
+Оригиналдуу сүрөттөрдү (278х278) төмөнкү жерден жүктөп алса болот: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
 
 
 
