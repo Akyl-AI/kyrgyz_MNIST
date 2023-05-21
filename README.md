@@ -10,7 +10,7 @@ The repository currently consists of 80213 (278x278 pixel) images representing a
 ### Acknowledgements
 
 We thank Ilgiz Zhumaev for providing this dataset.
-https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
+Original images could be downloaded from: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
 
 ## KG: Кыргыз тилиндеги колго жазылган тамгалар (кыргызча MNIST)
 
@@ -20,7 +20,7 @@ Machine Learning жана жасалма интеллект колдонмоло
 
 ### Ыраазычылык
 Бул датасет топтомун бергени үчүн Илгиз Жумаевге ыраазычылык билдиребиз.
-https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
+Cүрөттөрдү төмөнкү жерден жүктөп алса болот: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
 
 
 
