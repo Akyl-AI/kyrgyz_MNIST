@@ -16,7 +16,7 @@ For those who want to compete in Kaggle, HERE is the invitation: https://www.kag
 We thank Ilgiz Zhumaev for providing this dataset.
 Original images (278х278) could be downloaded from: https://www.kaggle.com/datasets/ilgizzhumaev/database-of-36-handwritten-kyrgyz-letters?sort=votes
 
-## KG: Кыргыз тилиндеги колго жазылган тамгалар (кыргызча MNIST)
+## KG: Кыргыз тилиндеги колго жазылган тамгалар (кыргыз MNIST)
 
 Machine Learning жана жасалма интеллект колдонмолору үчүн кол менен жазылган кыргыз алиппесинин сүрөттөрүнүн репозиториясы. Оригалдуу сүрөттөр биринчинден 278x278-ден 50х50 пикель сүрөткө которулган, анан csv форматына өзгөртүлгөн.
 
